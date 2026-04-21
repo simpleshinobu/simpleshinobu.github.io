@@ -3,7 +3,6 @@ title: "Scaling Test-Time Robustness of Vision-Language Models via Self-Critical
 collection: publications
 category: conferences
 permalink: /publication/2026-vlm-self-critical
-excerpt: 'Self-critical inference framework for scaling VLM robustness at test time.'
 date: 2026-01-01
 venue: 'CVPR 2026'
 citation: 'Kaihua Tang, <b>Jiaxin Qi</b>, Jinli Ou, Yuhua Zheng, Jianqiang Huang. "Scaling Test-Time Robustness of Vision-Language Models via Self-Critical Inference Framework." <i>CVPR 2026</i>.'
