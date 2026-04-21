@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Postdoctoral Researcher (Assistant Research Fellow) at the [CAS Computer Network Information Center](https://www.cnic.cn/), Chinese Academy of Sciences, working with Prof. Gaogang Xie. Previously, I received my Ph.D. from the School of Computer Science and Engineering at Nanyang Technological University (NTU Singapore) in 2023, advised by Prof. Hanwang Zhang, and my B.E. from the Department of Automation at University of Science and Technology of China (USTC) in 2018.
 
+**Contact:** jxqi **[AT]** cnic **[DOT]** cn
+
 My research lies at the intersection of **multimodal AI**, **autonomous agents**, and **biological foundation models**. I am broadly interested in building intelligent systems that can understand, reason, and evolve — from vision-language models and visual reasoning to self-evolving agents and large-scale biological pretraining.
 
 ## News
