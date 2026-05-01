@@ -15,6 +15,7 @@ My research lies at the intersection of **multimodal AI**, **autonomous agents**
 
 ## News
 
+- **[2026]** Three papers accepted at ICML 2026: Intrinsic Gradient Suppression, Universal GRN Inference, and HeRL for LLM Exploration.
 - **[2026]** Three papers accepted at CVPR 2026: CCCaption, Spatial Transcriptomics Pretraining, and VLM Self-Critical Inference.
 - **[2026]** One paper accepted at AAAI 2026 on Gene Incremental Learning.
 - **[2025]** Two papers accepted at ACM MM 2025 and BIBM 2025 on ECG Benchmark and GNN for Single-Cell Analysis.
