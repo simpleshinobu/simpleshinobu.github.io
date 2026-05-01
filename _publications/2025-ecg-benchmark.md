@@ -3,7 +3,7 @@ title: "A Comprehensive Benchmark for Electrocardiogram Time-Series"
 collection: publications
 category: conferences
 permalink: /publication/2025-ecg-benchmark
-date: 2025-01-01
+date: 2025-10-01
 venue: 'ACM MM 2025'
 citation: 'Zhijiang Tang*, <b>Jiaxin Qi</b>*, Yuhua Zheng, Jianqiang Huang. "A Comprehensive Benchmark for Electrocardiogram Time-Series." <i>ACM MM 2025</i>.'
 ---
